@@ -52,7 +52,7 @@ The project is contained in a single Jupyter notebook (`rgressions.ipynb`) with 
 
 **Dataset stats:**
 - 301 rows × 9 columns
-- Price range: ₹0.10 lakhs – ₹35.00 lakhs
+- Price range: ₹0.10 lakhs – ₹35.00 lakhs(which is rupee currency)
 - No missing values
 - Fuel types: Petrol, Diesel, CNG
 - Seller types: Dealer, Individual
