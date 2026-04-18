@@ -1,1 +1,1 @@
-My teammate model, which is liner regression
+My teammate model, which is linear regression
