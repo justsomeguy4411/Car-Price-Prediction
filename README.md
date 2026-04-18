@@ -229,7 +229,7 @@ Python version: **3.8 or higher** recommended.
 First stable version of the Car Price Prediction project, submitted as a term-ending group project.
 
 **What's included in this release:**
-- `rgressions.ipynb` — complete ML pipeline notebook (11 steps, fully documented)
+- `regressions.ipynb` — complete ML pipeline notebook (11 steps, fully documented)
 - `car_data.csv` — cleaned CarDekho dataset (301 rows × 9 columns)
 - `README.md` — full project documentation
 
